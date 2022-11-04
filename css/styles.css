@@ -110,7 +110,12 @@ img {
     background-color: transparent;
 }
     .modal-button-close:hover {
-        border: 1px solid var(--brand-color);
+        border: 1px solid var(--brand-color); 
+    }
+.modal-icon-close {
+    fill: #000000;
+}
+    .modal-icon-close:hover {
         fill: var(--brand-color);
     }
 .modal-wrapper-block {
