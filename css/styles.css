@@ -115,7 +115,7 @@ img {
 .modal-icon-close {
     fill: #000000;
 }
-    .modal-icon-close:hover {
+    .modal-button-close:hover .modal-icon-close {
         fill: var(--brand-color);
     }
 .modal-wrapper-block {
