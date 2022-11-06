@@ -392,9 +392,6 @@ img {
     border: 1px solid var(--brand-color);
     border-radius: 4px;
 }
-    .services-btn:focus {
-        border: 1px solid blue;
-    }
 .description-list {
     display: flex;
     justify-content: center;
