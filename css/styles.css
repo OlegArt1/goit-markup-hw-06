@@ -231,6 +231,9 @@ img {
     letter-spacing: 0.03em;
     color: var(--gray-color);
 }
+.modal-text-span {
+    padding-left: 24.38px;
+}
 .modal-text {
     color: var(--brand-color);
 }
