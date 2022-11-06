@@ -109,9 +109,6 @@ img {
     border: 1px solid var(--services-border-modal-color-1);
     background-color: transparent;
 }
-    .modal-button-close:hover {
-        border: 1px solid var(--white-color);
-    }
 .modal-icon-close {
     fill: #000000;
 }
